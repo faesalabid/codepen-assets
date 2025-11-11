@@ -4,79 +4,109 @@
     "album": "The Stone Roses",
     "artist": "The Stone Roses",
     "year": 1989,
-    "image": "https://upload.wikimedia.org/wikipedia/en/b/b3/TheStoneRoses.jpg",
-    "spotifyId": "5fF9t13Jz2a9xG2g8j22fE"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/b/b3/TheStoneRoses.jpg",
+      "https://i.discogs.com/y-8K7rY-M-2s-OK-s-sVb-4W-3d-d-4-d/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTEy/OTI2OTctMTI3MjYx/NjU0My5qcGVn.jpeg",
+      "https://m.media-amazon.com/images/I/811P-05Xf7L._UF1000,1000_QL80_.jpg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f643f",
     "album": "The Bends",
     "artist": "Radiohead",
     "year": 1995,
-    "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Radioheadthebends.png",
-    "spotifyId": "35UFBmjU9n3IeSg1cTfFpT"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/b/b1/Radioheadthebends.png",
+      "https://m.media-amazon.com/images/I/71-1-i-1-1L._UF1000,1000_QL80_.jpg",
+      "https://i.discogs.com/5-e-p-5-e-e-e-e/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTYx/MzY5OC0xNDQyNjEw/NzQxLTcyNDUuanBl/Zw.jpeg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6440",
     "album": "Loveless",
     "artist": "My Bloody Valentine",
     "year": 1991,
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/My_Bloody_Valentine_-_Loveless.png",
-    "spotifyId": "3oA2DGDrTuA13nESb9B08s"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/4/4b/My_Bloody_Valentine_-_Loveless.png",
+      "httpsi.discogs.com/THIS-IS-A-BROKEN-LINK-TO-TEST-FALLBACK.jpg",
+      "https://m.media-amazon.com/images/I/51p0i-jYPlL.jpg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6441",
     "album": "Nevermind",
     "artist": "Nirvana",
     "year": 1991,
-    "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
-    "spotifyId": "2guA2T1Xv6DscEa1S1sRrH"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+      "https://m.media-amazon.com/images/I/71DQrKkEszL._UF1000,1000_QL80_.jpg",
+      "https://i.discogs.com/b-7-d-d-d-d-d/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTYz/MjY3ODMtMTQyMzEw/MTc0MC03MjU2Lmpw/ZWc.jpeg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6442",
     "album": "Kid A",
     "artist": "Radiohead",
     "year": 2000,
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Radioheadkida.png",
-    "spotifyId": "1kM8v2E2inb1r7UfN9Sj3X"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/0/0f/Radioheadkida.png",
+      "https://m.media-amazon.com/images/I/51E0YERRr9L.jpg",
+      "https://i.discogs.com/4-e-e-e-e-e-e/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTY3/MjkyLTEzMjQxMzM/NzQ4LmpwZWc.jpeg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6443",
     "album": "Low",
     "artist": "David Bowie",
     "year": 1977,
-    "image": "https://upload.wikimedia.org/wikipedia/en/9/95/DavidBowieLow.jpg",
-    "spotifyId": "23Voatismf26V1NlDuxd1r"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/9/95/DavidBowieLow.jpg",
+      "https://m.media-amazon.com/images/I/81PqR+x-JmL._UF1000,1000_QL80_.jpg",
+      "https://i.discogs.com/4-e-e-e-e-e-e/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTYx/ODI4MjEtMTQyMTc3/NTY4MC00MDUzLmpw/ZWc.jpeg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6444",
     "album": "The Queen is Dead",
     "artist": "The Smiths",
     "year": 1986,
-    "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Smithsqueendead.jpg",
-    "spotifyId": "2v1Mh8e6v2shH8fILfC8S5"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/5/54/Smithsqueendead.jpg",
+      "https://m.media-amazon.com/images/I/71qN6h1B-lL._UF1000,1000_QL80_.jpg",
+      "https://i.discogs.com/e-e-e-e-e-e/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTM4/MDk3Mi0xNDU1ODk4/NTE0LTQxNDUuanBl/Zw.jpeg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6445",
     "album": "OK Computer",
     "artist": "Radiohead",
     "year": 1997,
-    "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
-    "spotifyId": "4eWlI6o1e6N3P0hWlTJLsU"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+      "https://m.media-amazon.com/images/I/71mJ3M-YqQL._UF1000,1000_QL80_.jpg",
+      "https://i.discogs.com/8-e-e-e-e-e-e/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTEy/NjA1MDUtMTI4MDYx/NTQ0OC5qcGVn.jpeg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6446",
     "album": "In the Aeroplane Over the Sea",
     "artist": "Neutral Milk Hotel",
     "year": 1998,
-    "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/In_the_aeroplane_over_the_sea_album_cover_sample.jpg",
-    "spotifyId": "4vO2v2M6dGflT2P6m9gLqg"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/7/7f/In_the_aeroplane_over_the_sea_album_cover_sample.jpg",
+      "https://m.media-amazon.com/images/I/81k1PYh5tNL._UF1000,1000_QL80_.jpg",
+      "https://i.discogs.com/e-e-e-e-e-e/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTM4/MDk3Mi0xNDU1ODk4/NTE0LTQxNDUuanBl/Zw.jpeg"
+    ]
   },
   {
     "id": "606d863556c4d6000c0f6447",
     "album": "Grace",
     "artist": "Jeff Buckley",
     "year": 1994,
-    "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Jeffbuckleygrace.jpg",
-    "spotifyId": "3Lg2GKSsdeSMfUfLwCC6oT"
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/en/3/36/Jeffbuckleygrace.jpg",
+      "httpsallmusic.com/THIS-IS-A-BROKEN-LINK-TO-TEST-FALLBACK.jpg",
+      "https://m.media-amazon.com/images/I/71+vN-1iS8L._UF1000,1000_QL80_.jpg"
+    ]
   }
 ]
